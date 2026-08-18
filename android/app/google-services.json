@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112224386872",
+    "project_id": "localmarketplace-b56ae",
+    "storage_bucket": "localmarketplace-b56ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112224386872:android:f87fbee879b044a08f8bcd",
+        "android_client_info": {
+          "package_name": "com.example.local_marketplace_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWmIup3c5jo2sp7l7tAIOTK3vPscBWm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
